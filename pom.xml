@@ -19,6 +19,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupid>org.projectlombok</groupid>
+      <artifactid>lombok</artifactid>
+      <version>1.18.22</version>
+     </dependency>
   </dependencies>
   <build>
     <finalName>01-maven-web-app</finalName>
